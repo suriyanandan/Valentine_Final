@@ -46,23 +46,23 @@
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo1/Photo1.jpg",
+      "image": "/src/assets/couple_photo/Photo1.jpg",
       "caption": "Our special moment together"
     },
     {
-      "image": "/src/assets/couple_photo1/Photo2.jpg", 
+      "image": "/src/assets/couple_photo/Photo2.jpg", 
       "caption": "Our special moment together"
     },
     {
-      "image": "/src/assets/couple_photo1/Photo3.jpg",
+      "image": "/src/assets/couple_photo/Photo3.jpg",
       "caption": "Our special moment together"
     },
     {
-      "image": "/src/assets/couple_photo1/Photo4.jpg",
+      "image": "/src/assets/couple_photo/Photo4.jpg",
       "caption": "Our special moment together"
     },
     {
-      "image": "/src/assets/couple_photo1/Photo5.jpg",
+      "image": "/src/assets/couple_photo/Photo5.jpg",
       "caption": "Our special moment together"
     },
     ],
@@ -161,4 +161,5 @@
     "play": "Play",
     "pause": "Pause"
   }
+
 }
